@@ -1,0 +1,12 @@
+I recreated my project with maven quickstart, it works fine. So I replaced the dependencies in my broken application with maven quickstart, and it works!
+
+
+Table below shows the dependencies of two applications.
+
+----------------------------+-----------------------------------
+Broken application                             Fine application
+----------------------------+-----------------------------------
+wicket-webjars-0.3.2.jar       +        wicket-webjars-0.2.0.jar
+----------------------------+-----------------------------------
+webjars-locator-0.6.jar         +        webjars-locator-0.1.jar        
+----------------------------+----------------------------------- 
